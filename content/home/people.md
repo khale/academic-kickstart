@@ -5,20 +5,23 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "Meet the Team"
-subtitle = ""
+title = "HExSA Lab"
+subtitle = "We are interested in the design of systems software for high-performance and parallel computing. As we see hardware scale up--both in terms of the number of interconnected machines and in terms of the number of computing elements on a single chip--We believe it is time to reconsider some of the design decisions that have sustained the popularity of the Linux/x86 software stack for general-purpose computing. Particularly, how should we organize/structure systems software stacks for future massive-scale machines?"
+
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
+  user_groups = ["Principal Investigator",
+                 "PhD Students",
+                 "Masters Students",
+                 "Undergraduates",
                  "Alumni"]
+                 #"Administration",
+                 #"Visitors",
+                 #"Researchers",
 
 [design]
   # Show user's social networking links? (true/false)

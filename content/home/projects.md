@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 4  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -21,21 +21,54 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
+
+   [[content.filter_button]]
+     name = "Operating Systems"
+     tag = "os"
+
+   [[content.filter_button]]
+     name = "Computer Architecture"
+     tag = "arch"
+
+   [[content.filter_button]]
+     name = "High-Performance Computing"
+     tag = "hpc"
+
+   [[content.filter_button]]
+     name = "Virtualization"
+     tag = "virt"
+
+   [[content.filter_button]]
+     name = "System Security"
+     tag = "security"
+
+   [[content.filter_button]]
+     name = "Databases"
+     tag = "db"
+
+   [[content.filter_button]]
+     name = "Compilers"
+     tag = "compilers"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Programming Languages"
+     tag = "pl"
+
+   [[content.filter_button]]
+     name = "Artificial Intelligence"
+     tag = "ai"
+
+   [[content.filter_button]]
+     name = "Distributed Systems"
+     tag = "ds"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
