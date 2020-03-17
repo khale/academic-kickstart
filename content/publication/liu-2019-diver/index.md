@@ -8,7 +8,7 @@ abstract: ""
 featured: true
 publication: "*Proceedings of the International Workshop on Runtime and Operating Systems for Supercomputers (ROSS 2019)*"
 publication_short: "**ROSS '19**"
-url_pdf: "http://cs.iit.edu/~khale/docs/diver-ross19.pdf"
+url_pdf: "https://www.hale-legacy.com/docs/diver-ross19.pdf"
 projects: [interweaving, sosr-cloud]
 links:
   - name: "ROSS"

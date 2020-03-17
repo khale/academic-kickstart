@@ -41,6 +41,6 @@ slides: ""
 ---
 
 Past Iterations:
-* [Fall '19](http://cs.iit.edu/~khale/class/vm-class/f19/)
+* [Fall '19](https://www.hale-legacy.com/class/vm-class/f19/)
 * Fall '18
 * Fall '17

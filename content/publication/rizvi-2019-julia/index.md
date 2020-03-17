@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "http://cs.iit.edu/~khale/docs/julia-tr.pdf"
+url_pdf: "https://www.hale-legacy.com/docs/julia-tr.pdf"
 url_code:
 url_dataset:
 url_poster:

@@ -41,4 +41,4 @@ slides: ""
 ---
 
 Current Iteration:
-* [Spring '20](http://cs.iit.edu/~khale/class/security/s20/)
+* [Spring '20](https://www.hale-legacy.com/class/security/s20/)

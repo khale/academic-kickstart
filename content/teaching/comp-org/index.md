@@ -42,5 +42,5 @@ slides: ""
 
 
 Past Iterations:
-* [Spring '18](http://cs.iit.edu/~khale/class/cs350/s18/)
+* [Spring '18](https://www.hale-legacy.com/class/cs350/s18/)
 * Fall '16

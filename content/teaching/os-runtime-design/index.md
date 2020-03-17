@@ -41,4 +41,4 @@ slides: ""
 ---
 
 Past Iterations:
-* [Fall '16](http://cs.iit.edu/~khale/class/cs59503/f16/)
+* [Fall '16](https://www.hale-legacy.com/class/cs59503/f16/)

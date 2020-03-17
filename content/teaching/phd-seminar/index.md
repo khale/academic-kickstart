@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-Current Iteration: [Spring '20](http://cs.iit.edu/~khale/class/cs695/s20/)
+Current Iteration: [Spring '20](https://www.hale-legacy.com/class/cs695/s20/)
 
 Past Iterations:
 * Spring '17

@@ -41,4 +41,4 @@ slides: ""
 ---
 
 Past Iterations:
-* [Spring '19](http://cs.iit.edu/~khale/class/intro-os/s19/)
+* [Spring '19](https://www.hale-legacy.com/class/intro-os/s19/)
