@@ -7,6 +7,13 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Proceedings of the 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS 2019)*"
+publication_short: "**MASCOTS '19**"
+projects: [interweaving, sosr-cloud]
 url_pdf: "http://cs.iit.edu/~khale/docs/multios-mascots19.pdf"
+links:
+  - name: "MASCOTS"
+    url: "https://sites.google.com/view/mascots-2019"
+    icon_pack: fas
+    icon: newspaper
 ---
 

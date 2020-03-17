@@ -52,3 +52,6 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+Lucas developed an NES backend (and complete refactor) of the MOS 6502 emulator I had developed
+for my Virtual Machines course. 

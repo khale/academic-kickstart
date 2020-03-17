@@ -7,6 +7,12 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 2nd International Workshop on Network on Chip Architectures (NoCArc 2009)*"
+publication_short: "**NoCArc '09**"
 url_pdf: "http://users.eecs.northwestern.edu/~kch479/docs/leak.pdf"
+links:
+  - name: "NoCArc"
+    url: "https://dblp.org/db/conf/micro/nocarc2009"
+    icon_pack: fas
+    icon: newspaper
 ---
 

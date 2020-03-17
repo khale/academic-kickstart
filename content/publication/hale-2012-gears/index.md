@@ -7,6 +7,12 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 9th International Conference on Autonomic Computing (ICAC 2012)*"
+publication_short: "**ICAC '12**"
 url_pdf: "http://users.eecs.northwestern.edu/~kch479/docs/gears.pdf"
+links:
+  - name: "ICAC"
+    url: "http://icac2012.cs.fiu.edu/"
+    icon_pack: fas
+    icon: newspaper
 ---
 

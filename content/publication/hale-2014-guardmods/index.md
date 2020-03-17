@@ -7,6 +7,12 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 11th International Conference on Autonomic Computing (ICAC 2014)*"
+publication_short: "**ICAC '14**"
 url_pdf: "http://users.eecs.northwestern.edu/~kch479/docs/gm.pdf"
+links:
+  - name: "ICAC"
+    url: https://www.usenix.org/conference/icac14
+    icon_pack: fas
+    icon: newspaper
 ---
 
