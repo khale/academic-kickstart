@@ -9,6 +9,7 @@ featured: false
 publication: "*Proceedings of the 4th International Workshop on Runtime and Operating Systems for Supercomputers (ROSS 2014)*"
 publication_short: "**ROSS '14**"
 url_pdf: "http://users.eecs.northwestern.edu/~msw978/resources/palacios-htm.pdf"
+tags: [os, systems, virt]
 links:
   - name: "ROSS"
     url: http://www.unixer.de/ross2014/

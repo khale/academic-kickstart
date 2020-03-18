@@ -9,6 +9,7 @@ featured: true
 publication: "*Proceedings of the 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS 2019)*"
 publication_short: "**MASCOTS '19**"
 projects: [interweaving, sosr-cloud]
+tags: [os, modeling, systems, hpc]
 url_pdf: "https://www.hale-legacy.com/docs/multios-mascots19.pdf"
 links:
   - name: "MASCOTS"

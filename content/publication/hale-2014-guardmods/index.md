@@ -6,6 +6,7 @@ authors: ["admin", "Peter A. Dinda"]
 publication_types: ["1"]
 abstract: ""
 featured: false
+tags: [virt, os, security, systems]
 publication: "*Proceedings of the 11th International Conference on Autonomic Computing (ICAC 2014)*"
 publication_short: "**ICAC '14**"
 url_pdf: "http://users.eecs.northwestern.edu/~kch479/docs/gm.pdf"

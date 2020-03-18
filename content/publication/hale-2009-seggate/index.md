@@ -6,6 +6,7 @@ authors: ["admin", "Boris Grot", "Stephen W. Keckler"]
 publication_types: ["1"]
 abstract: ""
 featured: false
+tags: [arch]
 publication: "*Proceedings of the 2nd International Workshop on Network on Chip Architectures (NoCArc 2009)*"
 publication_short: "**NoCArc '09**"
 url_pdf: "http://users.eecs.northwestern.edu/~kch479/docs/leak.pdf"

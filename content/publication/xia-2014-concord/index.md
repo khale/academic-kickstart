@@ -8,6 +8,7 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 23rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2014)*"
 publication_short: "**HPDC '14**"
+tags: [os, ds, hpc, virt]
 url_pdf: "http://users.eecs.northwestern.edu/~kch479/docs/concord.pdf"
 links:
   - name: "HPDC"

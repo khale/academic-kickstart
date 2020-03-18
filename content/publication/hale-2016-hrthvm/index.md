@@ -8,6 +8,8 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 12th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (VEE 2016)*"
 url_pdf: "http://pdinda.org/Papers/vee16.pdf"
+projects: [nautilus]
+tags: [virt, os, hpc]
 publication_short: "**VEE '16**"
 links:
   - name: "VEE"

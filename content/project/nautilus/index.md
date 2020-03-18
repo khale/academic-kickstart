@@ -3,8 +3,8 @@
 
 title: "Nautilus Aerokernel"
 summary: ""
-authors: [admin, Brian Tauro, Conghao Liu, Peter Dinda, Goutham Kannan, Imran-Ali Usmani, Andrew Neth, Sam Grayson]
-tags: [os, hpc, virt]
+authors: [admin, Brian Tauro, Conghao Liu, Peter Dinda, Conor Hetland, Goutham Kannan, Imran-Ali Usmani, Andrew Neth, Sam Grayson, Qitian Zeng, Nanda Velugoti]
+tags: [os, hpc, virt, systems, modeling]
 categories: []
 date: 2020-03-16T09:37:43-05:00
 
@@ -39,4 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-[Nautilus](http://nautilus.halek.co)
+
+Nautilus is a custom, lightweight operating system kernel designed
+for being fused with high-performance, parallel runtime systems. See more [here](https://nautilus.halek.co).

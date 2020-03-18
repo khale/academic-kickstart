@@ -39,3 +39,29 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+We observe that the OS and database communities face a similar challenge: how
+do we optimize systems to exploit the characteristics of specialized hardware
+without sacrificing the flexibility of general-purpose designs? Both
+communities have independently made progress on developing high-performance
+systems that exploit modern hardware and that --- to a lesser degree --- retain
+flexibility.  However, there is scant work that consolidates the efforts from
+these two core systems communities in the context of the advances mentioned
+above.  We argue that this is an important oversight since a general-purpose OS
+can *get in the way* of a high-performance data processing platform
+resulting in an unnecessary reduction in performance. The mismatch between
+abstractions and interfaces provided by the OS and the intent of the programmer
+might also require that the application programmer employ workarounds,
+essentially gaming the OS. These can be time-intensive, error-prone, and
+detrimental to the clarity, elegance, and longevity of application code.  The
+goal of this research is to integrate specialization techniques from the OS
+community (hybrid runtimes, hybrid virtual machines, and advanced
+virtualization techniques) and DB community (compiled queries and hardware-conscious query execution techniques) for
+high-performance query processing on modern hardware.  *Specifically, we
+propose to  develop a high-performance data processing platform called
+HCDF that runs atop a hybrid of a compilation-based data-flow engine and
+a lightweight, specialized OS which is optimized for data processing*. Our
+approach will leverage ideas from extant work on specialized operating
+systems and data processing techniques that exploit modern hardware.
+
+In collaboration with [Boris Glavic](http://www.cs.iit.edu/~dbgroup/members/bglavic.html) and the DBGroup at IIT.

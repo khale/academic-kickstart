@@ -39,3 +39,24 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Containerization has recently gained significant interest among cloud providers
+and users due to its ease of deployment and lightweight virtualization
+capabilities. The key feature of these approaches is the sharing of a single
+Linux OS instance among each active container environment. By sharing a single
+OS environment containers are able to exhibit much greater resource efficiency
+by avoiding the replicated state that arises in heavy-weight virtualization.
+However, the container approach has the drawback of relying on a single general
+purpose OS, whose design decisions might not align with those of the
+application. A recent resurgence of Specialized Operating Systems and Runtimes
+(SOS/Rs) has shown that significant performance and efficiency improvements can
+be made by codesigning the OS and application runtime environment together. The
+goal of this project is to enable the flexible deployment of these SOS/Rs
+alongside current container based solutions. This work will allow application
+services to be deployed on an optimal system software stack, and to react
+dynamically to changing hardware resource availability.
+
+Collaborative effort with the [Prognostic Lab](http://www.prognosticlab.org/) at The University of
+Pittsburgh.
+
+

@@ -9,6 +9,8 @@ featured: true
 publication: "*Proceedings of the 14th IEEE International Conference on Autonomic Computing (ICAC 2017)*"
 publication_short: "**ICAC '17**"
 url_pdf: "https://arxiv.org/abs/1901.06360"
+tags: [os, virt, systems, hpc]
+projects: [nautilus]
 links:
   - name : "ICAC"
     url : "http://icac2017.ece.ohio-state.edu/"
