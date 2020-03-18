@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Computer Science @ IIT
+role: Assistant Professor of Computer Science 
 
 # Organizations/Affiliations
 organizations:

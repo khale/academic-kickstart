@@ -22,6 +22,11 @@ title = "Other"
   flip_alt_rows = false
 +++
 
+## Professional Affiliations
+
+* Member fo the [ACM](https://acm.org)
+* Member of the [EFF](https://eff.org)
+
 ## Personal
 
 I love music. I'm a tenor sax player but also dabble with the

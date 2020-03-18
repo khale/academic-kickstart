@@ -3,7 +3,7 @@
 
 title: "Address Space Dynamics"
 summary: ""
-authors: [admin, Justin Goodman, Ganesh Mahesh]
+authors: [Justin Goodman, Ganesh Mahesh, admin]
 tags: [os, systems]
 categories: []
 date: 2020-03-16T11:23:06-05:00
