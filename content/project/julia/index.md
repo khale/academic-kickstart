@@ -40,4 +40,15 @@ url_video: ""
 slides: ""
 ---
 
-Julia for HPC
+Practitioners of high-performance parallel computing have long sought better
+programming models and languages to ease the task of writing programs for
+large-scale systems. However, there is an undeniable tension that exists
+between extreme performance and developer friendliness. While the steadily
+increasing performance of high-level languages shows promise, and the
+ubiquity of concurrent programming is on the rise, these advancements have not
+yet made a significant impact in the HPC community. The [Julia language](https://julialang.org) is of
+particular interest as it boasts single-threaded performance on par with C and
+Fortran while retaining familiar echoes of MATLAB, Python, and Ruby-like syntax
+in the language. In this project, we are experimenting with Julia's ability to 
+scale to large machines using benchmarks such as [HPCG](https://www.hpcg-benchmark.org/) and custom microbenchmarking. We are
+also exploring ways to enhance Julia with the [Hybrid Runtime Model]({{< ref "/publication/hale-2015-nautilus" >}}).
