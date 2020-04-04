@@ -41,7 +41,7 @@ slides: ""
 projects: [sosr-cloud]
 ---
 CNS Award [CNS-1718252](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718252&HistoricalAwards=false);
-$249,771; August 2017 through July 2020. This project is a collaborative effort with
+$249,771 (Collaborative total: $499,735); August 2017 through July 2020. This project is a collaborative effort with
 [Jack Lange](http://www.prognosticlab.org/~jarusl/) at the [University of
 Pittsburgh](https://pitt.edu). Also see [here]({{< ref "project/sosr-cloud" >}}).
 
