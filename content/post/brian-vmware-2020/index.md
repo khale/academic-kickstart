@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Iris and Hussain are going to grad school!"
+title: "Brian Accepts Internship Offer at VMware"
 subtitle: ""
 summary: ""
-authors: [Iris Uwizeyimana, Hussain Khajanchi]
+authors: [Brian Tauro]
 tags: []
 categories: []
-date: 2020-04-11T13:36:28-05:00
-lastmod: 2020-04-11T13:36:28-05:00
+date: 2020-04-11T13:46:18-05:00
+lastmod: 2020-04-11T13:46:18-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,5 @@ image:
 projects: []
 ---
 
-[Iris]({{< ref "/authors/iris-uwizeyimana" >}}) and [Hussain]({{< ref "/authors/hussain-khajanchi" >}}) are going to graduate school!
-Iris will be working with [Natalie Enright Jerger's](http://www.eecg.toronto.edu/~enright/) architecture group at the [University of Toronto](https://www.utoronto.ca/).
-Hussain will be working in the Compilers group at [Northwestern University](https://northwestern.edu) with [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/).
-Congratulations to both of you and good luck!
+Brian accepted an offer to intern at VMware Research with [Josh Simons](https://octo.vmware.com/author/josh_simons/) during the Summer of 2020.
+He'll be working on HPC virtualization. Congrats Brian!
