@@ -34,16 +34,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: 'mailto:khajanh1@tcnj.edu'
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/hkhajanchi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,10 +50,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
-Hussain Khajanchi joined HExSA Lab during the summer of 2020 as part of the
+Hussain Khajanchi joined HExSA Lab during the summer of 2019 as part of the
 REU Site BigDataX program at IIT. He worked with HExSA Lab and the Interactive
 Audio Lab at Northwestern University on developing next-generation hardware
 for low-power audio source separation.
