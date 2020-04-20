@@ -60,3 +60,6 @@ Evanston, IL; Tokyo; Albuquerque, NM; Mountain View, CA.
 * [Hawkbeans](https://github.com/hexsa-lab/hawkbeans) (private, email me for access) A custom (and incomplete) JVM written in C for my VM class
 * [A simple N-Body simulation](https://github.com/khale/barnes-hutt-p3) of a galaxy in a 2D plane written in Processing JS. Uses Barnes Hutt (quad-tree based) algorithm
 
+## Interesting Links
+* [Epigrams](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html) on programming from Alan Perlis 
+
