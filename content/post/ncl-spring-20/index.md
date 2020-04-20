@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-A student team from Hale and Jin's System and Network Security course ([CSP 544]({{< ref "/content/" >}})) competed
+A student team from Hale and Jin's System and Network Security course ([CSP 544]({{< ref "/content/teaching/netsec" >}})) competed
 in the National Cyber League [Capture the Flag](https://cyberskyline.com/events/ncl) competition. They placed
 2nd in their bracket; congratulations all!
