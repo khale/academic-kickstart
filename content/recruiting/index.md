@@ -21,9 +21,9 @@ understanding, and creating new systems.
 Qualified applicants will have a solid CS background under their belts, with
 a strong set of programming skills and particular strength in systems. I expect
 you will have at least a basic understanding of algorithms, data structures,
-computer orginization and architecture, operating systems, and compilers.
+computer organization and architecture, operating systems, and compilers.
 Particularly well-suited candidates will have experience with parallel
-programming and will have had experience working in substantial codebases, such
+programming and will have had experience working in substantial code bases, such
 as OSes, compilers, VMMs, emulators, or the like.
 
 ## Why come to Illinois Tech and Chicago?
@@ -33,18 +33,18 @@ significant growth, with talented new faculty coming aboard every year.
 Illinois Tech's CS department has particular strength in the HPC and
 distributed systems area.
 
-If you're looking for a top-knotch graduate school experience, but prefer to
+If you're looking for a top-notch graduate school experience, but prefer to
 live in a metropolitan area, Chicago is a fantastic choice. The tech scene is
 on the rise, with the City of Chicago showing significant interest in
 transforming the city into a tech hub. The big schools in the area form
 a tight-knit community of scholarship, so doing research in Chicago will
 present many opportunities for collaboration across institutions in the
-midwestern US. Aside from the academic motivations for coming to Chicago, it
+Midwestern US. Aside from the academic motivations for coming to Chicago, it
 would be difficult to find a more exciting city to live in while carrying out
 graduate studies. If you're interested in food culture, art, the theater,
 microbreweries and craft cocktails, great local coffee, a thriving live music
 and festival scene, a large swath of parks for cycling and running,
-comparitively cheap housing, great public transit, or sports, then you will
+comparatively cheap housing, great public transit, or sports, then you will
 enjoy living in Chicago. There really is something for everyone here.
 
 {{< gallery album="images" image="iit-campus.jpg">}}

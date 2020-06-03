@@ -86,3 +86,6 @@ the [research](#research) section.
 **I am actively looking for new PhD students! Students interested in working with me
 should see [this page]({{< ref "/recruiting" >}})**.
 
+If you're an undergrad considering research or going to grad school, you should take
+a look at [this page]({{< ref "/ugrad-research" >}}). 
+
