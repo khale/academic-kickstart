@@ -15,7 +15,7 @@ role: Undergraduate researcher
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: ""
+  url: "https://jbowden.me"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Undergraduate researcher
