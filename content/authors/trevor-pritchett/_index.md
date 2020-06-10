@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Trevor Pritchett"
+name: "Trevor Pritchett"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Student
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:

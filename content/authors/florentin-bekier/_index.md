@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Nanda Velugoti"
+name: "Florentin Bekier"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Nanda Velugoti"
+- Name "Florentin Bekier"
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,25 +20,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: M.S. Research Assistant
 
-# List each interest with a dash
-
-education:
-  courses:
-  - course: M.S. in Computer Science
-    institution: Illinois Institute of Technology
-    year: 2021
-  - course: BTech in Computer Science
-    institution: Lovely Professional University
-    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: linkedin
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:fbekier@hawk.iit.edu"
+- icon: github
   icon_pack: fab
-  link: https://www.linkedin.com/in/nandavelugoti/
+  link: https://github.com/TheFlow95
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

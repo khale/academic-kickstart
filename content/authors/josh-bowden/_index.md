@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate researcher
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
