@@ -72,16 +72,22 @@ user_groups:
 - Principal Investigator
 ---
 
-I am an assistant professor in the Department of Computer Science at Illinois
-Tech. My research lies at the intersection of operating systems,
-high-performance computing, and computer architecture. More specifically, I am
-interested in bridging software/hardware layers for enabling both
-functionality and performance, as well as questioning assumptions made by the
-software stacks we use today. Some projects I've worked on include the [Nautilus
-Aerokernel](http://nautilus.halek.co), the Philix Xeon Phi OS toolkit, hypervisor-based code injection,
-VMM-guarded, privileged kernel modules, virtualized hardware transactional
-memory, and the ConCORD distributed memory tracking system. Find out more in
-the [research](#research) section. 
+I am an Assistant Professor in the [Department of Computer
+Science](http://cs.iit.edu/) at the [Illinois Institute of
+Technology](https://www.iit.edu). I lead the [laboratory for high-performance,
+experimental systems and architecture (HExSA)](#lab) where we focus on various areas
+of computer systems research.  My research interests
+span several areas in systems including OS, computer architecture, embedded
+systems, system security, and virtualization. A current primary focus of our
+lab is the design of specialized system software stacks for parallel and
+emerging computing applications. You can see my publications [below](#publications).
+
+
+I received my PhD from [Northwestern University](https://northwestern.edu) in
+2016 under the guidance of [Peter Dinda](http://pdinda.org).  Before that
+I received my B.S. in computer science from UT Austin, where I worked with
+[Steve Keckler](https://research.nvidia.com/person/stephen-keckler) and [Doug
+Burger](https://www.microsoft.com/en-us/research/people/dburger/).
 
 **I am actively looking for new PhD students! Students interested in working with me
 should see [this page]({{< ref "/recruiting" >}})**.
