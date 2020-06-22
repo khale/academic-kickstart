@@ -52,7 +52,7 @@ Evanston, IL; Tokyo; Albuquerque, NM; Mountain View, CA.
 ## Hobby Projects/Misc.
 
 * [A guide](https://hale-legacy.com/docs/notes/pxe.html) to booting a custom OS without a BMC using PXE
-* A [Mandelbrot Set explorer](https://hale-legacy.com/mandelbrot/mandelbrot.html) written in Processing.js
+* A [Mandelbrot Set explorer](https://hale-legacy.com/mandelbrot/) written in Processing.js
 * A Conway's [Game of Life simulator](https://hale-legacy.com/gol/), also in Processing
 * [Microbenchmark](https://github.com/khale/false-sharing) to quantify false sharing on multi-core machines (Linux)
 * [Hawker](https://github.com/khale/hawker) custom custom container engine (private, email me for access), designed for my virtual machines class
