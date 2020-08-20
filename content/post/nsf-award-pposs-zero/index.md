@@ -4,7 +4,7 @@
 title: "HExSA Lab wins NSF PPoSS award"
 subtitle: ""
 summary: ""
-authors: [admin]
+authors: ["admin"]
 tags: []
 categories: []
 date: 2020-08-20T10:05:29-05:00
@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["interweaving"]
 ---
 
 Happy to annouce that we received an NSF planning award from the Principles and Practices of Scalable Systems (PPoSS)
