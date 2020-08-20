@@ -3,7 +3,7 @@
 
 title: "Address Space Dynamics"
 summary: ""
-authors: [Justin Goodman, Ganesh Mahesh, Brian Tauro, admin]
+authors: [Justin Goodman, Ganesh Mahesh, Brian Tauro, Trevor Pritchett, admin]
 tags: [os, systems, modeling]
 categories: []
 date: 2020-03-16T11:23:06-05:00

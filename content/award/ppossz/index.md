@@ -4,9 +4,9 @@
 title: "Collaborative Research: PPoSS: Planning: Unifying Software and Hardware to Achieve Performant and Scalable Zero-cost Parallelism in the Heterogeneous Future"
 summary: ""
 authors: [admin, Peter Dinda, Simone Campanoni, Nikos Hardavellas, Umut Acar]
-tags: [os,systems,arch,compilers,pl]
+tags: [os, systems, arch, compilers, pl]
 categories: []
-date: 2020-10-01
+date: 2020-08-19
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

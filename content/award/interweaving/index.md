@@ -32,6 +32,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+math: false
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -42,7 +44,7 @@ projects: [interweaving]
 ---
 
 NSF Award [CNS-1763612](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763612&HistoricalAwards=false);
-$305,578 (Collaborative total: $1.2M); September 2018 through August 2021. This project is a collaborative effort with
+ $305,578 (Collaborative total: $1.2M); September 2018 through August 2021. This project is a collaborative effort with
 [Peter Dinda](http://pdinda.org), [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/), and [Nikos Hardavellas](https://users.cs.northwestern.edu/~hardav/)
 at [Northwestern University](https://northwestern.edu).
 
