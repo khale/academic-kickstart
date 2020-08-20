@@ -40,8 +40,5 @@ url_video: ""
 slides: ""
 ---
 
-Current Iteration:
-* [Fall '20](https://www.hale-legacy.com/class/intro-os/f20/)
-
 Past Iterations:
-* [Spring '19]
+* [Spring '19](https://www.hale-legacy.com/class/intro-os/s19/)
