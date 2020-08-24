@@ -3,7 +3,7 @@
 
 title: "Next-Generation Near-Data Processing Architectures"
 summary: ""
-authors: [admin, Rujia Wang, Xian-He Sun]
+authors: [admin, Rujia Wang, Xian-He Sun, Peng Jiang]
 tags: [arch, os, ds, ai]
 categories: []
 date: 2020-03-16T11:56:38-05:00
@@ -39,3 +39,21 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+In this work, we propose an integrated, full-stack System to enable
+Memory-Centric Computing (SMC2). We target a system that has near-memory data
+processors (NDP) as well as an extendable memory pool. We work on the entire
+system stack to minimize the performance impact of memory accesses from the
+research tasks in architecture, SW/HW interface, programming model/compiler,
+and performance model/optimization. First, we propose to utilize the NDP
+hardware to build an active memory system that supports intelligent data
+prefetch and speculative data push, which can overlap the data access time with
+computation. Next, we revisit current memory management mechanisms in order to
+support NDP function calls, data push operations and virtualization. The new
+SW/HW interface allows us to propose a new programming model, which can allow
+the programmer to specify which tasks can run on the NDP resources, and allow
+efficient NDP to NDP communication. Lastly, we try to optimize the system
+performance with the help of NDP through a new memory-centric performance model
+and a global performance optimization framework. Putting the four pieces
+together, our proposed system support can maximize the performance of
+memory-centric computing with new system abstractions and theories.

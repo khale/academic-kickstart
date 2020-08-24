@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HExSA Lab wins collaborative NSF PPoSS award with Northwestern and CMU"
+title: "Wang, Sun, Hale, and Jiang at UIowa win NSF PPoSS award!"
 subtitle: ""
 summary: ""
-authors: ["admin"]
+authors: [admin]
 tags: []
 categories: []
-date: 2020-08-20T10:05:29-05:00
-lastmod: 2020-08-20T10:05:29-05:00
+date: 2020-08-24T11:20:08-05:00
+lastmod: 2020-08-24T11:20:08-05:00
 featured: false
 draft: false
 
@@ -25,9 +25,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["interweaving"]
+projects: []
 ---
 
-Happy to annouce that we received an NSF planning award from the Principles and Practices of Scalable Systems (PPoSS)
-program solicitaiton! This is a collaborative grant with Simone Campanoni, Peter Dinda, and Nikos Hardavellas from
-Northwestern University, and Mike Rainey and Umut Acar from Carnegie Mellon University. Thank you NSF!
+A team of three IIT faculty ([Rujia Wang](https://rujiawang.github.io/), Kyle
+Hale, and [Xian-He Sun](http://www.cs.iit.edu/~scs/sun/)) and a collaborator at
+the University of Iowa, [Peng
+Jiang](https://homepage.divms.uiowa.edu/~penjiang/) won an award from NSF to
+investigate novel architectures for next-generation systems integrating
+near-data processing. Congrats all and thanks to NSF!
