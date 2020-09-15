@@ -15,7 +15,7 @@ role: 2nd Year PhD Student
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: "http://www.brianrichardtauro.com/"
+  url: "https://www.btauro.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 2nd Year PhD Student 
@@ -46,7 +46,7 @@ social:
   link: https://github.com/btauro
 - icon: external-link-alt
   icon_pack: fas
-  link: "http://www.brianrichardtauro.com/"
+  link: "https://www.btauro.com/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
