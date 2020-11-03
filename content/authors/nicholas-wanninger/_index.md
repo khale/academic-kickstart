@@ -18,22 +18,19 @@ organizations:
   url: "https://nickw.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 4th year undergraduate at IIT
 
 # List each interest with a dash
 interests:
 - Operating systems
-- Programming languages
+- Programming languages and compilers
 - Virtualization
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: BS in Computer Science
+    institution: Illinois Institute of Technology
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
