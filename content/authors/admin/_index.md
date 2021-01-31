@@ -75,7 +75,7 @@ user_groups:
 I am an Assistant Professor in the [Department of Computer
 Science](http://cs.iit.edu/) at the [Illinois Institute of
 Technology](https://www.iit.edu). I lead the [laboratory for high-performance,
-experimental systems and architecture (HExSA)](#lab) where we focus on various areas
+experimental systems and architecture (HExSA)](#lab) where we focus on various aspects
 of computer systems research.  My research interests
 span several areas in systems including OS, computer architecture, embedded
 systems, system security, and virtualization. A current primary focus of our
@@ -85,9 +85,9 @@ emerging computing applications. You can see my publications [below](#publicatio
 
 I received my PhD from [Northwestern University](https://northwestern.edu) in
 2016 under the guidance of [Peter Dinda](http://pdinda.org).  Before that
-I received my B.S. in computer science from UT Austin, where I worked with
-[Steve Keckler](https://research.nvidia.com/person/stephen-keckler) and [Doug
-Burger](https://www.microsoft.com/en-us/research/people/dburger/).
+I received my B.S. in computer science from UT Austin, where I worked with [Boris Grot](http://homepages.inf.ed.ac.uk/bgrot/)
+and 
+[Steve Keckler](https://research.nvidia.com/person/stephen-keckler).
 
 **I am actively looking for new PhD students! Students interested in working with me
 should see [this page]({{< ref "/recruiting" >}})**.
