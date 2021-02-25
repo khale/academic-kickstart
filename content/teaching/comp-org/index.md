@@ -40,7 +40,10 @@ url_video: ""
 slides: ""
 ---
 
+Current Iteration: [Spring '21](https://hale-legacy.com/class/cs350/s21/)
+
+
 
 Past Iterations:
-* [Spring '18](https://www.hale-legacy.com/class/cs350/s18/)
+* Spring '18
 * Fall '16
