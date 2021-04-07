@@ -8,7 +8,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Task Parallel Assembly Language for Uncompromising Parallelism*"
-url_pdf: 
+url_pdf: ""
 publication_short: "**PLDI '21**"
 projects: [nautilus]
 tags: [os, pl, hpc]
