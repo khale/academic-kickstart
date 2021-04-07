@@ -1,13 +1,12 @@
 ---
-title: "Task Parallel Assembly Language for Uncompromising
-              Parallelism
-date: 2021-04-07
+title: "Task Parallel Assembly Language for Uncompromising Parallelism"
+date: 2021-06-07
 publishDate: 2021-04-07T15:22:05.151999Z
-authors: ["admin", "Peter A. Dinda"]
+authors: ["admin", "Peter A. Dinda", "Nikos Hardavellas", "Simone Campanoni"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Task Parallel Assembly Language for Uncompromising Parallelism*"
+publication: "*Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 21')*"
 url_pdf: ""
 publication_short: "**PLDI '21**"
 projects: [nautilus]
