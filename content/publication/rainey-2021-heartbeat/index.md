@@ -2,7 +2,7 @@
 title: "Task Parallel Assembly Language for Uncompromising Parallelism"
 date: 2021-06-07
 publishDate: 2021-04-07T15:22:05.151999Z
-authors: ["admin", "Peter A. Dinda", "Nikos Hardavellas", "Simone Campanoni"]
+authors: ["Mike Rainey", "admin", "Ryan Newton", "Nikos Hardavellas", "Simone Campanoni", "Peter Dinda", "Umut Acar"]
 publication_types: ["1"]
 abstract: ""
 featured: false
@@ -12,7 +12,7 @@ publication_short: "**PLDI '21**"
 projects: [nautilus]
 tags: [os, pl, hpc]
 links:
-  - name: "PLDI"
+  - name: "PLDI '21"
     url: ""
     icon_pack: fas
     icon: newspaper
