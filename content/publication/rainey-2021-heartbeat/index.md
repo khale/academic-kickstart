@@ -13,7 +13,7 @@ projects: [nautilus]
 tags: [os, pl, hpc]
 links:
   - name: "PLDI '21"
-    url: ""
+    url: "http://www.andrew.cmu.edu/user/mrainey//papers/tpal-long.pdf"
     icon_pack: fas
     icon: newspaper
 ---
