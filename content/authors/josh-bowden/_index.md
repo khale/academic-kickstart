@@ -18,7 +18,7 @@ organizations:
   url: "https://jbowden.me"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate researcher
+bio: founder and lead software engineer at Domination Finance
 
 
 education:
@@ -50,5 +50,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- Alumni 
 ---
