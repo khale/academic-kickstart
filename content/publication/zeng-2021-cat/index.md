@@ -11,5 +11,10 @@ url_pdf: ""
 publication_short: "**DaMoN '21**"
 projects: [nautilus]
 tags: [os, db]
+links:
+  - name: "DaMoN '21"
+    url: ""
+    icon_pack: fas
+    icon: newspaper
 ---
 
