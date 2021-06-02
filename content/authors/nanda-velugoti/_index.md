@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.S. Research Assistant
+role: 1st Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: M.S. Research Assistant
+bio: 1st Year PhD Student
 
 # List each interest with a dash
 
 education:
   courses:
+  - cousre: PhD in Computer Science
+    institution: Illinois Institute of Technology
+    year: in progress
   - course: M.S. in Computer Science
     institution: Illinois Institute of Technology
     year: 2021
@@ -51,5 +54,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- PhD Students
 ---

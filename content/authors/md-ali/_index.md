@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 1st Year PhD Student
+role: 2nd Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 1st Year PhD Student 
+bio: 2nd Year PhD Student 
 
 
 education:

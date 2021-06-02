@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 2nd Year PhD Student
+role: 3rd Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.btauro.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 2nd Year PhD Student 
+bio: 3rd Year PhD Student 
 
 
 education:
