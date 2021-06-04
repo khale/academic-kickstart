@@ -8,7 +8,7 @@ abstract: ""
 featured: true
 publication: "arXiv preprint"
 publication_short: "**arXiv preprint**"
-projects: [interweaving, sosr-cloud]
+projects: [coalescent]
 tags: [os, systems]
 url_pdf: "https://arxiv.org/pdf/2104.07122.pdf"
 links:

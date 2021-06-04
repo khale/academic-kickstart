@@ -3,7 +3,7 @@
 
 title: "Next-Generation Near-Data Processing Architectures"
 summary: ""
-authors: [admin, Rujia Wang, Xian-He Sun, Peng Jiang]
+authors: [admin, Rujia Wang, Xian-He Sun, Peng Jiang, Brian Tauro, Nanda Velugoti]
 tags: [arch, os, ds, ai]
 categories: []
 date: 2020-03-16T11:56:38-05:00

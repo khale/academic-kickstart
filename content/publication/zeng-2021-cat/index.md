@@ -9,7 +9,7 @@ featured: false
 publication: "*Proceedings of the International Workshop on Data Management on New Hardware (DaMoN '21)*"
 url_pdf: ""
 publication_short: "**DaMoN '21**"
-projects: [nautilus]
+projects: [hcdf, nautilus]
 tags: [os, db]
 links:
   - name: "DaMoN '21"
