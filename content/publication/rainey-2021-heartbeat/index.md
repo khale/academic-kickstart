@@ -6,7 +6,7 @@ authors: ["Mike Rainey", "Ryan Newton", "admin", "Nikos Hardavellas", "Simone Ca
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 21')*"
+publication: "*Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '21)*"
 url_pdf: ""
 publication_short: "**PLDI '21**"
 projects: [interweaving, nautilus]
