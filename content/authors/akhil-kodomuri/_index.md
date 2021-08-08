@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Akhil Kodomuri"
+name: "Akhil Kodumuri"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Akhil Kodomuri"
+- Name "Akhil Kodumuri"
 
 # Is this the primary user of the site?
 superuser: false
