@@ -7,13 +7,13 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the International Workshop on Data Management on New Hardware (DaMoN '21)*"
-url_pdf: ""
+url_pdf: "http://cs.iit.edu/~dbgroup/assets/pdfpubls/ZH21.pdf"
 publication_short: "**DaMoN '21**"
 projects: [hcdf, nautilus]
 tags: [os, db]
 links:
   - name: "DaMoN '21"
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3465998.3466016"
     icon_pack: fas
     icon: newspaper
 ---

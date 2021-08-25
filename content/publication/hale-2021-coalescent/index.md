@@ -12,8 +12,8 @@ projects: [coalescent]
 tags: [os, systems]
 url_pdf: "https://arxiv.org/pdf/2104.07122.pdf"
 links:
-  - name: "ApSys '21"
-    url: "https://arxiv.org/abs/2104.07122"
+  - name: "APSys '21"
+    url: "https://dl.acm.org/doi/10.1145/3476886.3477503"
     icon_pack: fas
     icon: newspaper
 ---
