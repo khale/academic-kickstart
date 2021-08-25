@@ -19,11 +19,11 @@ links:
   - name: "Website"
     url: "http://www.andrew.cmu.edu/user/mrainey//tpal/tpal.html"
     icon_pack: fas
-    icon: browser
+    icon: code
   - name: "Code"
     url: "https://github.com/mikerainey/tpal"
     icon_pack: fas
-    icon: binary
+    icon: code-branch
 
 ---
 
