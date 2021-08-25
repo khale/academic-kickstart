@@ -19,6 +19,6 @@ links:
   - name: "Slides"
     url: files/hale-apsys21-slides.pdf
     icon_pack: fas
-    icon: presentation-screen
+    icon: chalkboard
 ---
 
