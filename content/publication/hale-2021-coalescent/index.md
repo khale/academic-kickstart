@@ -16,5 +16,9 @@ links:
     url: "https://dl.acm.org/doi/10.1145/3476886.3477503"
     icon_pack: fas
     icon: newspaper
+  - name: "Slides"
+    url: files/hale-apsys21-slides.pdf
+    icon_pack: fas
+    icon: presentation-screen
 ---
 
