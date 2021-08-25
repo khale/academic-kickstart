@@ -1,13 +1,13 @@
 ---
 title: "Coalescent Computing"
-date: 2021-06-29
-publishDate: 2021-04-14T15:22:05.153721Z
+date: 2021-08-24
+publishDate: 2021-08-24T15:22:05.153721Z
 authors: ["admin"]
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*Proceedings of the ACM Asia-Pacific Workshop on Systems (ApSys '21, to appear)"
-publication_short: "**ApSys '21**"
+publication: "*Proceedings of the ACM SIGOPS Asia-Pacific Workshop on Systems (APSys '21)"
+publication_short: "**APSys '21**"
 projects: [coalescent]
 tags: [os, systems]
 url_pdf: "https://arxiv.org/pdf/2104.07122.pdf"
