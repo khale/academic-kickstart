@@ -7,14 +7,23 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '21)*"
-url_pdf: ""
+url_pdf: "http://www.andrew.cmu.edu/user/mrainey//papers/tpal-long.pdf"
 publication_short: "**PLDI '21**"
 projects: [interweaving, nautilus]
 tags: [os, pl, hpc]
 links:
   - name: "PLDI '21"
-    url: "http://www.andrew.cmu.edu/user/mrainey//papers/tpal-long.pdf"
+    url: "https://dl.acm.org/doi/10.1145/3453483.3460969"
     icon_pack: fas
     icon: newspaper
+  - name: "Website"
+    url: "http://www.andrew.cmu.edu/user/mrainey//tpal/tpal.html"
+    icon_pack: fas
+    icon: browser
+  - name: "Code"
+    url: "https://github.com/mikerainey/tpal"
+    icon_pack: fas
+    icon: binary
+
 ---
 
