@@ -6,7 +6,7 @@ authors: ["admin", "Simone Campanoni", "Nikos Hardavellas", "Peter Dinda"]
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*Proceedings of the 10th International Workshop on Runtime and Operating Systems for Supercomputers (to appear)*
+publication: "*Proceedings of the 10th International Workshop on Runtime and Operating Systems for Supercomputers (to appear)*"
 publication_short: "**ROSS '21**"
 projects: [interweaving]
 tags: [os, systems]
