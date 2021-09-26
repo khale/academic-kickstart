@@ -3,7 +3,7 @@ title: "Virtines: Virtualization at Function Call Granularity"
 date: 2021-04-14
 publishDate: 2021-04-14T15:22:05.153721Z
 authors: [Nick Wanninger, Josh Bowden, admin]
-publication_types: ["1"]
+publication_types: ["3"]
 abstract: ""
 featured: false 
 publication: "arXiv preprint"
