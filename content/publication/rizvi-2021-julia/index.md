@@ -8,7 +8,7 @@ abstract: ""
 featured: false 
 publication: "arXiv preprint"
 publication_short: "**arXiv preprint**"
-projects: [, interweaving]
+projects: []
 tags: [hpc, pl]
 url_pdf: "https://arxiv.org/pdf/2109.14072.pdf"
 links:
