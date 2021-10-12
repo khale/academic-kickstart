@@ -5,7 +5,7 @@ publishDate: 2020-03-15T15:22:05.153721Z
 authors: ["Brian Tauro", "Conghao Liu", "admin"]
 publication_types: ["1"]
 abstract: ""
-featured: true
+featured: false
 publication: "*Proceedings of the 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS 2019)*"
 publication_short: "**MASCOTS '19**"
 projects: [interweaving, sosr-cloud]

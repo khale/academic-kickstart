@@ -5,7 +5,7 @@ publishDate: 2021-04-07T15:22:05.151999Z
 authors: ["Mike Rainey", "Ryan Newton", "admin", "Nikos Hardavellas", "Simone Campanoni", "Peter Dinda", "Umut Acar"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '21)*"
 url_pdf: "http://www.andrew.cmu.edu/user/mrainey//papers/tpal-long.pdf"
 publication_short: "**PLDI '21**"
