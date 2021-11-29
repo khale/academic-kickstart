@@ -2,7 +2,7 @@
 title: "Extremely Fine-grained Parallelism via Scalable Concurrent Queues on Modern Many-core Architectures"
 date: 2021-09-14
 publishDate: 2021-09-14T15:22:05.151999Z
-authors: ["Poornima Nookala", "Peter Dinda", admin, "Ioan Raicu", "Kyle Chard"]
+authors: ["Poornima Nookala", "Peter Dinda", admin, "Kyle Chard", "Ioan Raicu"]
 publication_types: ["1"]
 abstract: ""
 featured: false
@@ -13,7 +13,7 @@ projects: []
 tags: [os, parallelism]
 links:
   - name: "MASCOTS '21"
-    url: ""
+    url: "https://ieeexplore.ieee.org/document/9614292"
     icon_pack: fas
     icon: newspaper
 ---
