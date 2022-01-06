@@ -40,5 +40,5 @@ url_video: ""
 slides: ""
 ---
 
-Current Iteration:
+Past Iterations:
 * [Fall '21](https://hale-legacy.com/class/edge-serverless/f21/)
