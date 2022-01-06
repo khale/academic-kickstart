@@ -40,8 +40,8 @@ url_video: ""
 slides: ""
 ---
 
+Current Iteration: [Spring '22](https://khale.github.io/iit-csp544-s22-site/)
+
 Past Iterations:
 * Spring '20
 
-Current Iteration:
-* [Spring '22](https://khale.github.io/iit-csp544-s22-site/)
