@@ -40,5 +40,8 @@ url_video: ""
 slides: ""
 ---
 
+Past Iterations:
+* Spring '20
+
 Current Iteration:
-* [Spring '20](https://www.hale-legacy.com/class/security/s20/)
+* [Spring '22](https://khale.github.io/iit-csp544-s22-site/)
