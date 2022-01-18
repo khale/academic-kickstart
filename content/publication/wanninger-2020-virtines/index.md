@@ -1,7 +1,7 @@
 ---
 title: "Isolating Functions at the Hardware Limit with Virtines"
-date: 2022-11-18
-publishDate: 2022-11-18T11:01:05.153721Z
+date: 2022-01-18
+publishDate: 2022-01-18T11:01:05.153721Z
 authors: [Nick Wanninger, Josh Bowden, admin]
 publication_types: ["1"]
 abstract: ""
