@@ -10,10 +10,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Researcher
+role: Undergraduate Researcher (Alumni)
 
 # Organizations/Affiliations
 organizations:
+- name: Personal Website
+  url: "https://nickw.io"
+- name: Prescience Lab
+  url: "http://presciencelab.org/"
 - name: Northwestern University
   url: "https://northwestern.edu"
 

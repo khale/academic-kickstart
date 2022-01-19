@@ -10,15 +10,17 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Coterm Researcher
+role: Coterm Researcher (Alumni)
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Personal Website
   url: "https://jbowden.me"
+- name: Domination Finance
+  url: "https://info.domination.finance/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: founder and lead software engineer at Domination Finance
+bio: Founder and lead software engineer at Domination Finance
 
 
 education:
