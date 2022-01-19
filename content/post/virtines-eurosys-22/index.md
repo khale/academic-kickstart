@@ -3,7 +3,7 @@
 
 title: "Our paper was accepted to EuroSys '22!"
 subtitle: ""
-authors: ["Nick Wanninger", "Josh Bowden", admin]
+authors: ["Nicholas Wanninger", "Josh Bowden", admin]
 tags: [os]
 categories: []
 date: 2022-01-18T11:01:35-05:00
