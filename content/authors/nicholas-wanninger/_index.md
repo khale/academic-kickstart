@@ -14,11 +14,11 @@ role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: "https://nickw.io"
+- name: Northwestern University
+  url: "https://northwestern.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: now PhD student at Northwestern University
+bio: PhD student at Northwestern University
 
 # List each interest with a dash
 interests:
@@ -43,6 +43,10 @@ social:
 - icon: github
   icon_pack: fab
   link: "https://github.com/nickwanninger"
+- icon: external-link-alt
+  icon_pack: fas
+  link: "https://nickw.io"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
