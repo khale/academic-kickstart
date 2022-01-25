@@ -24,26 +24,26 @@ title = "Other"
 
 ## Professional Affiliations
 
-* Member fo the [ACM](https://acm.org)
+* Member of the [ACM](https://acm.org)
 * Member of the [EFF](https://eff.org)
 
 ## Personal
 
 I love music. I'm a tenor sax player but also dabble with the
 guitar and piano (Sonny Rollins is my favorite sax player, Oscar Peterson - piano, Kenny Burrel - guitar).  Lately I've been listening to 
-a lot of [Sam Evian](https://www.samevian.com/) and Wilco.
+a lot of [Sam Evian](https://www.samevian.com/). 
 My favorite live
-venue in Chicago is [The Empty Bottle](https://www.emptybottle.com/).
+venues in Chicago are [The Empty Bottle](https://www.emptybottle.com/) and Thalia Hall. 
 
 I'm excited by all of the sciences, and I always enjoy getting to talk to
 domain scientists about their work at places like [SC](https://supercomputing.org). I especially am interested in 
-Astronomy and Cosmology, but unfortunately Chicago isn't the best place for
-stargazing.
+Astronomy, but unfortunately Chicago isn't the best place for stargazing. When I can, I like to get out with my
+Celestron StarSense Newtonian. 
 
 I'm an avid reader of all genres, but especially historical fiction, 
-hard sci-fi, and thought-provoking non-fiction. 
+hard sci-fi, and non-fiction. 
 
-I'm into traveling. My next target is either Istanbul or Scandinavia. I speak
+I love to travel. My next target is either Istanbul or Scandinavia. I speak
 Japanese (I lived in Tokyo a while) and I'd like to learn a European language.
 
 Some places I've lived: Corpus Christi, TX; Austin, TX; San Antonio, TX;
