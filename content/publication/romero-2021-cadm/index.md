@@ -13,7 +13,7 @@ projects: []
 tags: [os]
 links:
   - name: "PDADS '21"
-    url: "https://doi.org/10.1145/3458744.3474052",
+    url: "https://doi.org/10.1145/3458744.3474052"
     icon_pack: fas
     icon: newspaper
   - name: "Talk"
