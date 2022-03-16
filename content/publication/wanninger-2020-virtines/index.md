@@ -10,10 +10,10 @@ publication: "*Proceedings of the European Conference on Computer Systems (EuroS
 publication_short: "**EuroSys '22**"
 projects: [virtines, interweaving]
 tags: [os, systems, virtualization, pl]
-url_pdf: "https://nickw.io/papers/eurosys22.pdf"
+url_pdf: files/virtines-eurosys22.pdf
 links:
   - name: "EuroSys '22"
-    url: "https://nickw.io/papers/eurosys22.pdf"
+    url: files/virtines-eurosys22.pdf
     icon_pack: fas
     icon: newspaper
 ---
