@@ -16,5 +16,9 @@ links:
     url: files/virtines-eurosys22.pdf
     icon_pack: fas
     icon: newspaper
+  - name: "arXiv"
+    url: https://arxiv.org/abs/2104.11324
+    icon_pack: fas
+    icon: newspaper
 ---
 
