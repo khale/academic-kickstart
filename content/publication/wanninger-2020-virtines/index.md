@@ -13,7 +13,7 @@ tags: [os, systems, virtualization, pl]
 url_pdf: files/virtines-eurosys22.pdf
 links:
   - name: "EuroSys '22"
-    url: files/virtines-eurosys22.pdf
+    url: https://dl.acm.org/doi/10.1145/3492321.3519553
     icon_pack: fas
     icon: newspaper
   - name: "arXiv"
