@@ -6,7 +6,7 @@ authors: ["Nicholas Wanninger", "Josh Bowden", "Kirtankumar Shetty", "Ayush Garg
 publication_types: ["1"]
 abstract: ""
 featured: true 
-publication: "*Proceedings of the European Conference on Computer Systems (EuroSys '22, to appear)*"
+publication: "*Proceedings of the European Conference on Computer Systems (EuroSys '22)*"
 publication_short: "**EuroSys '22**"
 projects: [virtines, interweaving]
 tags: [os, systems, virtualization, pl]
