@@ -1,5 +1,5 @@
 ---
-title: "Isolating Functions at the Hardware Limit with Virtines"
+title: "Isolating Functions at the Hardware Limit with Virtines (**best artifact winner**)"
 date: 2022-01-18
 publishDate: 2022-01-18T11:01:05.153721Z
 authors: ["Nicholas Wanninger", "Josh Bowden", "Kirtankumar Shetty", "Ayush Garg", admin]
