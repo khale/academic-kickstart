@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EuroSys '22 Virtines paper wins best artifact award
+title: "EuroSys '22 Virtines paper wins best artifact award"
 subtitle: ""
 authors: ["Nicholas Wanninger", "Josh Bowden", "Kirtankumar Shetty", "Ayush Garg", admin]
 tags: [os]
