@@ -39,9 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Current Iteration: [Spring '22](https://khale.github.io/iit-cs562-s22-site/)
-
 Past Iterations:
+* [Spring '22](https://khale.github.io/iit-cs562-s22-site/)
 * Fall '19
 * Fall '18
 * Fall '17

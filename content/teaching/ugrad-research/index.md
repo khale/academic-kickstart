@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CSP 544: System and Network Security"
+title: "CS 492: Introduction to CS Research"
 summary: ""
 authors: [admin]
-tags: [systems, security, networking]
+tags: [seminar]
 categories: []
-date: 2020-03-15T13:27:28-05:00
+date: 2022-08-15T13:27:14-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,7 +40,5 @@ url_video: ""
 slides: ""
 ---
 
-Past Iterations:
-* [Spring '22](https://khale.github.io/iit-csp544-s22-site/)
-* Spring '20
+Current Iteration: [Fall '22](https://khale.github.io/iit-ugrad-cs-research-class-site/)
 

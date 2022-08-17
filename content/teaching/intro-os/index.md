@@ -6,7 +6,7 @@ summary: ""
 authors: [admin]
 tags: [systems, os]
 categories: []
-date: 2019-05-20T13:27:03-05:00
+date: 2022-08-16T13:27:03-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,8 +40,9 @@ url_video: ""
 slides: ""
 ---
 
+Current Iteration: [Fall '22](https://khale.github.io/iit-cs450-f22-site/)
 
 Past Iterations:
-* [Fall '20](https://www.hale-legacy.com/class/intro-os/f20/)
+* Fall '20
 * Spring '19
 
