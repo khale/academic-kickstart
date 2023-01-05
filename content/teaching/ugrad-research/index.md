@@ -40,5 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-Current Iteration: [Fall '22](https://khale.github.io/iit-ugrad-cs-research-class-site/)
+# Current Iteration: [Fall '22](https://khale.github.io/iit-ugrad-cs-research-class-site/)
+
+Past Iterations:
+* Fall '22
 

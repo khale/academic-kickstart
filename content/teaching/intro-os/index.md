@@ -40,9 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-Current Iteration: [Fall '22](https://khale.github.io/iit-cs450-f22-site/)
+# Current Iteration: 
 
 Past Iterations:
+* Fall '22
 * Fall '20
 * Spring '19
-

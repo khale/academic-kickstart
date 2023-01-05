@@ -39,6 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Current Iteration: [Spring '23](https://khale.github.io/iit-serverless-edge-s23-site/)
 
 Past Iterations:
 * [Fall '21](https://hale-legacy.com/class/edge-serverless/f21/)

@@ -41,6 +41,6 @@ slides: ""
 ---
 
 Past Iterations:
-* [Spring '22](https://khale.github.io/iit-csp544-s22-site/)
+* Spring '22
 * Spring '20
 
