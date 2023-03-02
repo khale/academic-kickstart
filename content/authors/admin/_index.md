@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/khale
+- icon: acm
+  icon_pack: ai
+  link: https://dl.acm.org/profile/81548021280
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
