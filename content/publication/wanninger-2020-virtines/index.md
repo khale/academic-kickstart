@@ -11,6 +11,7 @@ publication_short: "**EuroSys '22**"
 projects: [virtines, interweaving]
 tags: [os, systems, virtualization, pl]
 url_pdf: files/virtines-eurosys22.pdf
+venue: EuroSys '22
 links:
   - name: "EuroSys '22"
     url: https://dl.acm.org/doi/10.1145/3492321.3519553
