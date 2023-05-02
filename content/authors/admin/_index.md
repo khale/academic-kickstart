@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Computer Science 
+role: Associate Professor of Computer Science 
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,7 @@ user_groups:
 - Principal Investigator
 ---
 
-I am an Assistant Professor in the [Department of Computer
+I am an Associate Professor in the [Department of Computer
 Science](http://cs.iit.edu/) at the [Illinois Institute of
 Technology](https://www.iit.edu). I lead the [laboratory for high-performance,
 experimental systems and architecture (HExSA)](#lab) where we focus on various aspects
